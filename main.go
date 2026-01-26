@@ -61,7 +61,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	// Display legal disclaimer (no user confirmation required)
+	// Display legal disclaimer
 	printLegalDisclaimer()
 
 	// Load wordlists
